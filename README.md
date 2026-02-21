@@ -11,4 +11,4 @@ Because there is no code manipulation, it is undetected, you will not get banned
 
 This Tool will save your .save files as a backup, and replace your save file with the one i provided, it works for any competitive playlist, you just need to choose an other playlist, if you want to play an other.
 
-NOTE: This Tool for now only works on fresh new accounts, the manual method requires some more step i can't automate with my provided .saves, i will see if i can cook something in the future.
+**NOTE: This Tool for now only works on fresh new accounts, the manual method requires some more step i can't automate with my provided .saves, i will see if i can cook something in the future.**
